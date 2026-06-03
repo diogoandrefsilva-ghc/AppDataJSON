@@ -3354,21 +3354,7 @@
       "id": 1780489841390,
       "descricao": "",
       "data": "03/06/2026",
-      "ordens": [
-        {
-          "id": 1780489847159,
-          "item": "Bitoque",
-          "quantidade": 3,
-          "precoUnitario": 13.9,
-          "precoTotal": 41.7,
-          "amigos": [
-            "Diogo",
-            "Barrona",
-            "Mestre"
-          ],
-          "hora": "03/06, 13:30"
-        }
-      ],
+      "ordens": [],
       "ofertas": [],
       "totalFatura": null,
       "pagador": "",
