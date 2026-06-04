@@ -203,10 +203,11 @@
       "type": "Galp",
       "date": "2025-11-23",
       "desc": "Alcochete",
-      "amount": 48.94,
+      "amount": 50,
       "quinzena": "Extrato 2025Nov",
-      "reimbursed": true,
-      "pending": false
+      "reimbursed": false,
+      "pending": false,
+      "finalAmount": 48.94
     },
     {
       "id": "s17",
