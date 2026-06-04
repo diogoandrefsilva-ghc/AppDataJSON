@@ -359,10 +359,11 @@
       "type": "Galp",
       "date": "2026-05-14",
       "desc": "Alcochete",
-      "amount": 65,
+      "amount": 65.79,
       "quinzena": "Extrato 2026Mai",
       "reimbursed": false,
-      "pending": false
+      "pending": false,
+      "finalAmount": null
     },
     {
       "id": "s30",
