@@ -3229,6 +3229,18 @@
       "quinzena": "TR 2025Nov Q1",
       "reimbursed": true,
       "pending": false
+    },
+    {
+      "type": "Galp",
+      "date": "2026-06-04",
+      "desc": "Alcochete",
+      "amount": 67.69,
+      "finalAmount": null,
+      "quinzena": "Extrato 2026Jun",
+      "pending": false,
+      "reimbursed": false,
+      "id": "e1780642706784ctwn",
+      "fy": "FY26"
     }
   ]
 }
