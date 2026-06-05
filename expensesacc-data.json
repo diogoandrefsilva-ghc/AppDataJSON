@@ -31,17 +31,6 @@
   },
   "expenses": [
     {
-      "id": "s1",
-      "fy": "FY26",
-      "type": "Telemóveis",
-      "date": "2025-11-01",
-      "desc": "Renovação Telemóvel",
-      "amount": 47,
-      "quinzena": "",
-      "reimbursed": false,
-      "pending": true
-    },
-    {
       "id": "s14",
       "fy": "FY26",
       "type": "Galp",
