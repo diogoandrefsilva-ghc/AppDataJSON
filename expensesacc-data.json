@@ -53,17 +53,6 @@
       "pending": true
     },
     {
-      "id": "s3",
-      "fy": "FY26",
-      "type": "Telemóveis",
-      "date": "2026-01-01",
-      "desc": "Comunicações Dez/25",
-      "amount": 39.33,
-      "quinzena": "",
-      "reimbursed": false,
-      "pending": true
-    },
-    {
       "id": "s14",
       "fy": "FY26",
       "type": "Galp",
