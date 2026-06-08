@@ -18,7 +18,7 @@
     "readonly": false,
     "planoMensal": {
       "ativo": true,
-      "diaMes": 1,
+      "diaMes": 3,
       "ate": "2027-08",
       "segmentos": [
         {
@@ -70,33 +70,17 @@
       "pessoa": "Comum"
     },
     {
-      "id": "m10",
-      "data": "2026-06-29",
-      "descricao": "Depósito Férias Diogo",
-      "valor": 825,
-      "tipo": "contribuicao",
-      "pessoa": "Diogo"
-    },
-    {
-      "id": "m11",
-      "data": "2026-06-29",
-      "descricao": "Depósito Férias Margarida",
-      "valor": 675,
-      "tipo": "contribuicao",
-      "pessoa": "Margarida"
-    },
-    {
       "id": "m14",
-      "data": "2026-07-01",
-      "descricao": "Adriana",
+      "data": "2026-06-28",
+      "descricao": "AP Adriana",
       "valor": -1685,
       "tipo": "despesa",
       "pessoa": "Comum"
     },
     {
       "id": "m17",
-      "data": "2026-08-01",
-      "descricao": "Altura",
+      "data": "2026-08-16",
+      "descricao": "Altura Turcongel",
       "valor": -950,
       "tipo": "despesa",
       "pessoa": "Comum"
@@ -107,6 +91,22 @@
       "descricao": "Disneyland",
       "valor": -1985.12,
       "tipo": "despesa",
+      "pessoa": "Comum"
+    },
+    {
+      "id": "xmq4g1m8211i5",
+      "data": "2026-06-27",
+      "descricao": "Reforço Diogo",
+      "valor": 825,
+      "tipo": "contribuicao",
+      "pessoa": "Comum"
+    },
+    {
+      "id": "xmq4g1m827r8j",
+      "data": "2026-06-27",
+      "descricao": "Reforço Margarida",
+      "valor": 675,
+      "tipo": "contribuicao",
       "pessoa": "Comum"
     }
   ],
@@ -211,5 +211,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-06-07T19:45:30.838Z"
+  "_updated": "2026-06-08T00:04:15.954Z"
 }
