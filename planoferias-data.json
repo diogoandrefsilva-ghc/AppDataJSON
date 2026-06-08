@@ -122,56 +122,56 @@
       "id": "p2",
       "data": "2026-06-30",
       "valor": 320,
-      "obs": "Carregamento Edenred",
+      "obs": "Carregamento Accenture",
       "ferias": 0
     },
     {
       "id": "p3",
       "data": "2026-06-30",
       "valor": -505,
-      "obs": "Mensalidade Penas",
+      "obs": "Mensalidade",
       "ferias": 0
     },
     {
       "id": "p4",
       "data": "2026-07-31",
       "valor": 320,
-      "obs": "Carregamento Edenred",
+      "obs": "Carregamento Accenture",
       "ferias": 0
     },
     {
       "id": "p5",
       "data": "2026-07-31",
       "valor": -505,
-      "obs": "Mensalidade Penas",
+      "obs": "Mensalidade",
       "ferias": 0
     },
     {
       "id": "p6",
       "data": "2026-08-31",
       "valor": 320,
-      "obs": "Carregamento Edenred",
+      "obs": "Carregamento Accenture",
       "ferias": 0
     },
     {
       "id": "p7",
       "data": "2026-08-31",
       "valor": -505,
-      "obs": "Mensalidade Penas",
+      "obs": "Mensalidade",
       "ferias": 0
     },
     {
       "id": "p8",
       "data": "2026-09-30",
       "valor": 320,
-      "obs": "Carregamento Edenred",
+      "obs": "Carregamento Accenture",
       "ferias": 0
     },
     {
       "id": "p9",
       "data": "2026-09-30",
       "valor": -590,
-      "obs": "Mensalidade Penas",
+      "obs": "Mensalidade",
       "ferias": 0
     },
     {
@@ -185,31 +185,31 @@
       "id": "p11",
       "data": "2026-10-31",
       "valor": 320,
-      "obs": "Carregamento Edenred",
+      "obs": "Carregamento Accenture",
       "ferias": 0
     },
     {
       "id": "p12",
       "data": "2026-10-31",
       "valor": -590,
-      "obs": "Mensalidade Penas",
+      "obs": "Mensalidade",
       "ferias": 269
     },
     {
       "id": "p13",
       "data": "2026-11-30",
       "valor": 320,
-      "obs": "Carregamento Edenred",
+      "obs": "Carregamento Accenture",
       "ferias": 0
     },
     {
       "id": "p14",
       "data": "2026-11-30",
       "valor": -590,
-      "obs": "Mensalidade Penas",
+      "obs": "Mensalidade",
       "ferias": 270
     }
   ],
   "sims": [],
-  "_updated": "2026-06-08T00:04:15.954Z"
+  "_updated": "2026-06-08T00:14:16.800Z"
 }
