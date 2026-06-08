@@ -18,12 +18,13 @@
     "readonly": false,
     "planoMensal": {
       "ativo": true,
-      "diaMes": 3,
+      "diaMes": 1,
       "ate": "2027-08",
       "segmentos": [
         {
           "desde": "2026-05",
-          "valorTotal": 360
+          "valorTotal": 360,
+          "diogoPct": 55
         }
       ]
     }
@@ -70,17 +71,33 @@
       "pessoa": "Comum"
     },
     {
+      "id": "m10",
+      "data": "2026-06-29",
+      "descricao": "Depósito Férias Diogo",
+      "valor": 825,
+      "tipo": "contribuicao",
+      "pessoa": "Diogo"
+    },
+    {
+      "id": "m11",
+      "data": "2026-06-29",
+      "descricao": "Depósito Férias Margarida",
+      "valor": 675,
+      "tipo": "contribuicao",
+      "pessoa": "Margarida"
+    },
+    {
       "id": "m14",
-      "data": "2026-06-28",
-      "descricao": "AP Adriana",
+      "data": "2026-07-01",
+      "descricao": "Adriana",
       "valor": -1685,
       "tipo": "despesa",
       "pessoa": "Comum"
     },
     {
       "id": "m17",
-      "data": "2026-08-16",
-      "descricao": "Altura Turcongel",
+      "data": "2026-08-01",
+      "descricao": "Altura",
       "valor": -950,
       "tipo": "despesa",
       "pessoa": "Comum"
@@ -91,22 +108,6 @@
       "descricao": "Disneyland",
       "valor": -1985.12,
       "tipo": "despesa",
-      "pessoa": "Comum"
-    },
-    {
-      "id": "xmq4g1m8211i5",
-      "data": "2026-06-27",
-      "descricao": "Reforço Diogo",
-      "valor": 825,
-      "tipo": "contribuicao",
-      "pessoa": "Comum"
-    },
-    {
-      "id": "xmq4g1m827r8j",
-      "data": "2026-06-27",
-      "descricao": "Reforço Margarida",
-      "valor": 675,
-      "tipo": "contribuicao",
       "pessoa": "Comum"
     }
   ],
@@ -122,56 +123,56 @@
       "id": "p2",
       "data": "2026-06-30",
       "valor": 320,
-      "obs": "Carregamento Accenture",
+      "obs": "Carregamento Edenred",
       "ferias": 0
     },
     {
       "id": "p3",
       "data": "2026-06-30",
       "valor": -505,
-      "obs": "Mensalidade",
+      "obs": "Mensalidade Penas",
       "ferias": 0
     },
     {
       "id": "p4",
       "data": "2026-07-31",
       "valor": 320,
-      "obs": "Carregamento Accenture",
+      "obs": "Carregamento Edenred",
       "ferias": 0
     },
     {
       "id": "p5",
       "data": "2026-07-31",
       "valor": -505,
-      "obs": "Mensalidade",
+      "obs": "Mensalidade Penas",
       "ferias": 0
     },
     {
       "id": "p6",
       "data": "2026-08-31",
       "valor": 320,
-      "obs": "Carregamento Accenture",
+      "obs": "Carregamento Edenred",
       "ferias": 0
     },
     {
       "id": "p7",
       "data": "2026-08-31",
       "valor": -505,
-      "obs": "Mensalidade",
+      "obs": "Mensalidade Penas",
       "ferias": 0
     },
     {
       "id": "p8",
       "data": "2026-09-30",
       "valor": 320,
-      "obs": "Carregamento Accenture",
+      "obs": "Carregamento Edenred",
       "ferias": 0
     },
     {
       "id": "p9",
       "data": "2026-09-30",
       "valor": -590,
-      "obs": "Mensalidade",
+      "obs": "Mensalidade Penas",
       "ferias": 0
     },
     {
@@ -185,31 +186,31 @@
       "id": "p11",
       "data": "2026-10-31",
       "valor": 320,
-      "obs": "Carregamento Accenture",
+      "obs": "Carregamento Edenred",
       "ferias": 0
     },
     {
       "id": "p12",
       "data": "2026-10-31",
       "valor": -590,
-      "obs": "Mensalidade",
+      "obs": "Mensalidade Penas",
       "ferias": 269
     },
     {
       "id": "p13",
       "data": "2026-11-30",
       "valor": 320,
-      "obs": "Carregamento Accenture",
+      "obs": "Carregamento Edenred",
       "ferias": 0
     },
     {
       "id": "p14",
       "data": "2026-11-30",
       "valor": -590,
-      "obs": "Mensalidade",
+      "obs": "Mensalidade Penas",
       "ferias": 270
     }
   ],
   "sims": [],
-  "_updated": "2026-06-08T00:14:16.800Z"
+  "_updated": "2026-06-08T14:45:28.494Z"
 }
