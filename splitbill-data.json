@@ -3349,7 +3349,724 @@
           "valor": 9.48
         }
       }
+    },
+    {
+      "id": 1780489841390,
+      "descricao": "Evento Teste",
+      "data": "03/06/2026",
+      "ordens": [],
+      "ofertas": [],
+      "totalFatura": null,
+      "pagador": "",
+      "dividas": {},
+      "amigos": [
+        "Diogo",
+        "Barrona",
+        "Mestre",
+        "João Hélder",
+        "Rogélio",
+        "João Paulo",
+        "Luís Pedro",
+        "Filipe",
+        "Samuel",
+        "João Matias"
+      ],
+      "menu": {
+        "Bandida": 3.5,
+        "Batatas": 3,
+        "Bifana": 4.5,
+        "Bitoque": 13.9,
+        "Café": 0.9,
+        "Caneca": 3.5,
+        "Chamuça": 2,
+        "Coca-Cola": 1.8,
+        "Copo Reutilizável": 1,
+        "Costeletão": 17.9,
+        "Croquete": 2,
+        "Imperial": 1.5,
+        "Lagartinhos": 12.9,
+        "Ovo Extra": 1.5,
+        "Ovos Rotos": 11.9,
+        "Panaché": 2,
+        "Pão": 1.5,
+        "Pica-pau Vazia": 12.9,
+        "Prego": 6.9,
+        "Queijo": 4.5
+      }
     }
   ],
-  "pagamentos": []
+  "pagamentos": [
+    {
+      "id": 1710796759,
+      "pessoa": "Filipe",
+      "valor": 9.46,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710796688,
+      "pessoa": "João Paulo",
+      "valor": 13.71,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710796344,
+      "pessoa": "Rogélio",
+      "valor": 8.59,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710797180,
+      "pessoa": "Barrona",
+      "valor": 31.78,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710796761,
+      "pessoa": "João Hélder",
+      "valor": 24.45,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710796900,
+      "pessoa": "Mestre",
+      "valor": 34.39,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710796327,
+      "pessoa": "Luís Pedro",
+      "valor": 3.38,
+      "tipo": "evento",
+      "eventoId": 1756512000000,
+      "data": "30/08/2025"
+    },
+    {
+      "id": 1710796582,
+      "pessoa": "Barrona",
+      "valor": 8.17,
+      "tipo": "evento",
+      "eventoId": 1758153600000,
+      "data": "18/09/2025"
+    },
+    {
+      "id": 1710797175,
+      "pessoa": "Rogélio",
+      "valor": 6.13,
+      "tipo": "evento",
+      "eventoId": 1758153600000,
+      "data": "18/09/2025"
+    },
+    {
+      "id": 1710796672,
+      "pessoa": "Filipe",
+      "valor": 8.43,
+      "tipo": "evento",
+      "eventoId": 1758153600000,
+      "data": "18/09/2025"
+    },
+    {
+      "id": 1710796598,
+      "pessoa": "João Hélder",
+      "valor": 11.24,
+      "tipo": "evento",
+      "eventoId": 1758153600000,
+      "data": "18/09/2025"
+    },
+    {
+      "id": 1710796754,
+      "pessoa": "João Matias",
+      "valor": 12.77,
+      "tipo": "evento",
+      "eventoId": 1758153600000,
+      "data": "18/09/2025"
+    },
+    {
+      "id": 1710796959,
+      "pessoa": "Nuno",
+      "valor": 12.77,
+      "tipo": "evento",
+      "eventoId": 1758153600000,
+      "data": "18/09/2025"
+    },
+    {
+      "id": 1710796932,
+      "pessoa": "Barrona",
+      "valor": 9.28,
+      "tipo": "evento",
+      "eventoId": 1758499200000,
+      "data": "22/09/2025"
+    },
+    {
+      "id": 1710797062,
+      "pessoa": "João Hélder",
+      "valor": 14.39,
+      "tipo": "evento",
+      "eventoId": 1758499200000,
+      "data": "22/09/2025"
+    },
+    {
+      "id": 1710796673,
+      "pessoa": "Nuno",
+      "valor": 15.81,
+      "tipo": "evento",
+      "eventoId": 1758499200000,
+      "data": "22/09/2025"
+    },
+    {
+      "id": 1710796934,
+      "pessoa": "Mestre",
+      "valor": 20.46,
+      "tipo": "evento",
+      "eventoId": 1758499200000,
+      "data": "22/09/2025"
+    },
+    {
+      "id": 1710796340,
+      "pessoa": "Luís Pedro",
+      "valor": 34.22,
+      "tipo": "evento",
+      "eventoId": 1759622400000,
+      "data": "05/10/2025"
+    },
+    {
+      "id": 1710797027,
+      "pessoa": "Filipe",
+      "valor": 8.72,
+      "tipo": "evento",
+      "eventoId": 1759622400000,
+      "data": "05/10/2025"
+    },
+    {
+      "id": 1710796810,
+      "pessoa": "João Hélder",
+      "valor": 11.52,
+      "tipo": "evento",
+      "eventoId": 1759622400000,
+      "data": "05/10/2025"
+    },
+    {
+      "id": 1710796845,
+      "pessoa": "Rogélio",
+      "valor": 12.22,
+      "tipo": "evento",
+      "eventoId": 1759622400000,
+      "data": "05/10/2025"
+    },
+    {
+      "id": 1710796453,
+      "pessoa": "Mestre",
+      "valor": 19.6,
+      "tipo": "evento",
+      "eventoId": 1759622400000,
+      "data": "05/10/2025"
+    },
+    {
+      "id": 1710796216,
+      "pessoa": "Barrona",
+      "valor": 19.6,
+      "tipo": "evento",
+      "eventoId": 1759622400000,
+      "data": "05/10/2025"
+    },
+    {
+      "id": 1710796656,
+      "pessoa": "Barrona",
+      "valor": 16.3,
+      "tipo": "evento",
+      "eventoId": 1761091200000,
+      "data": "22/10/2025"
+    },
+    {
+      "id": 1710796939,
+      "pessoa": "João Hélder",
+      "valor": 6.3,
+      "tipo": "evento",
+      "eventoId": 1761091200000,
+      "data": "22/10/2025"
+    },
+    {
+      "id": 1710796445,
+      "pessoa": "Mestre",
+      "valor": 23.6,
+      "tipo": "evento",
+      "eventoId": 1761091200000,
+      "data": "22/10/2025"
+    },
+    {
+      "id": 1710797107,
+      "pessoa": "Paulo Conceição",
+      "valor": 17.71,
+      "tipo": "evento",
+      "eventoId": 1761868800000,
+      "data": "31/10/2025"
+    },
+    {
+      "id": 1710797027,
+      "pessoa": "Rogélio",
+      "valor": 15.8,
+      "tipo": "evento",
+      "eventoId": 1761868800000,
+      "data": "31/10/2025"
+    },
+    {
+      "id": 1710796649,
+      "pessoa": "Filipe",
+      "valor": 10.97,
+      "tipo": "evento",
+      "eventoId": 1761868800000,
+      "data": "31/10/2025"
+    },
+    {
+      "id": 1710796383,
+      "pessoa": "Mestre",
+      "valor": 16.6,
+      "tipo": "evento",
+      "eventoId": 1764115200000,
+      "data": "26/11/2025"
+    },
+    {
+      "id": 1710796325,
+      "pessoa": "Rogélio",
+      "valor": 16.6,
+      "tipo": "evento",
+      "eventoId": 1764115200000,
+      "data": "26/11/2025"
+    },
+    {
+      "id": 1710796507,
+      "pessoa": "Barrona",
+      "valor": 28.7,
+      "tipo": "evento",
+      "eventoId": 1764115200000,
+      "data": "26/11/2025"
+    },
+    {
+      "id": 1710796545,
+      "pessoa": "João Hélder",
+      "valor": 20.18,
+      "tipo": "evento",
+      "eventoId": 1764460800000,
+      "data": "30/11/2025"
+    },
+    {
+      "id": 1710797143,
+      "pessoa": "Barrona",
+      "valor": 23.03,
+      "tipo": "evento",
+      "eventoId": 1764460800000,
+      "data": "30/11/2025"
+    },
+    {
+      "id": 1710796616,
+      "pessoa": "Barrona",
+      "valor": 19.31,
+      "tipo": "evento",
+      "eventoId": 1766880000000,
+      "data": "28/12/2025"
+    },
+    {
+      "id": 1710797173,
+      "pessoa": "João Hélder",
+      "valor": 16.71,
+      "tipo": "evento",
+      "eventoId": 1766880000000,
+      "data": "28/12/2025"
+    },
+    {
+      "id": 1710796581,
+      "pessoa": "João Paulo",
+      "valor": 21.46,
+      "tipo": "evento",
+      "eventoId": 1766880000000,
+      "data": "28/12/2025"
+    },
+    {
+      "id": 1710796457,
+      "pessoa": "Rogélio",
+      "valor": 17.96,
+      "tipo": "evento",
+      "eventoId": 1766880000000,
+      "data": "28/12/2025"
+    },
+    {
+      "id": 1710797150,
+      "pessoa": "Filipe",
+      "valor": 7.99,
+      "tipo": "evento",
+      "eventoId": 1766880000000,
+      "data": "28/12/2025"
+    },
+    {
+      "id": 1710796592,
+      "pessoa": "Mestre",
+      "valor": 24.88,
+      "tipo": "evento",
+      "eventoId": 1768521600000,
+      "data": "16/01/2026"
+    },
+    {
+      "id": 1710797022,
+      "pessoa": "Rogélio",
+      "valor": 21.3,
+      "tipo": "evento",
+      "eventoId": 1768521600000,
+      "data": "16/01/2026"
+    },
+    {
+      "id": 1710796729,
+      "pessoa": "Barrona",
+      "valor": 16.88,
+      "tipo": "evento",
+      "eventoId": 1768521600000,
+      "data": "16/01/2026"
+    },
+    {
+      "id": 1710796608,
+      "pessoa": "João Hélder",
+      "valor": 9.62,
+      "tipo": "evento",
+      "eventoId": 1768521600000,
+      "data": "16/01/2026"
+    },
+    {
+      "id": 1710796858,
+      "pessoa": "João Paulo",
+      "valor": 13.81,
+      "tipo": "evento",
+      "eventoId": 1768521600000,
+      "data": "16/01/2026"
+    },
+    {
+      "id": 1710796306,
+      "pessoa": "Luís Pedro",
+      "valor": 4.5,
+      "tipo": "evento",
+      "eventoId": 1768867200000,
+      "data": "20/01/2026"
+    },
+    {
+      "id": 1710796494,
+      "pessoa": "Barrona",
+      "valor": 15.4,
+      "tipo": "evento",
+      "eventoId": 1768867200000,
+      "data": "20/01/2026"
+    },
+    {
+      "id": 1710796518,
+      "pessoa": "Mestre",
+      "valor": 37.8,
+      "tipo": "evento",
+      "eventoId": 1768867200000,
+      "data": "20/01/2026"
+    },
+    {
+      "id": 1710796811,
+      "pessoa": "Rogélio",
+      "valor": 16.8,
+      "tipo": "evento",
+      "eventoId": 1768867200000,
+      "data": "20/01/2026"
+    },
+    {
+      "id": 1710796703,
+      "pessoa": "Filipe",
+      "valor": 4.5,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710796304,
+      "pessoa": "Luís Pedro",
+      "valor": 7.8,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710797100,
+      "pessoa": "Rogélio",
+      "valor": 8.9,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710796560,
+      "pessoa": "Barrona",
+      "valor": 18,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710796788,
+      "pessoa": "João Hélder",
+      "valor": 9.9,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710796513,
+      "pessoa": "João Paulo",
+      "valor": 18.9,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710796490,
+      "pessoa": "Mestre",
+      "valor": 20.3,
+      "tipo": "evento",
+      "eventoId": 1771113600000,
+      "data": "15/02/2026"
+    },
+    {
+      "id": 1710797193,
+      "pessoa": "Barrona",
+      "valor": 12,
+      "tipo": "evento",
+      "eventoId": 1778887690888,
+      "data": "04/05/2026"
+    },
+    {
+      "id": 1710796783,
+      "pessoa": "João Hélder",
+      "valor": 10,
+      "tipo": "evento",
+      "eventoId": 1778887690888,
+      "data": "04/05/2026"
+    },
+    {
+      "id": 1779880348920,
+      "pessoa": "Barrona",
+      "valor": 29.93,
+      "tipo": "evento",
+      "eventoId": 1772496000000,
+      "data": "03/03/2026"
+    },
+    {
+      "id": 1779880361052,
+      "pessoa": "João Hélder",
+      "valor": 12.48,
+      "tipo": "evento",
+      "eventoId": 1772496000000,
+      "data": "03/03/2026"
+    },
+    {
+      "id": 1779880372969,
+      "pessoa": "Luís Pedro",
+      "valor": 3.45,
+      "tipo": "evento",
+      "eventoId": 1772496000000,
+      "data": "03/03/2026"
+    },
+    {
+      "id": 1779880380802,
+      "pessoa": "Mestre",
+      "valor": 28.45,
+      "tipo": "evento",
+      "eventoId": 1772496000000,
+      "data": "03/03/2026"
+    },
+    {
+      "id": 1779880391620,
+      "pessoa": "Rogélio",
+      "valor": 20.07,
+      "tipo": "evento",
+      "eventoId": 1772496000000,
+      "data": "03/03/2026"
+    },
+    {
+      "id": 1780097309500,
+      "pessoa": "Barrona",
+      "valor": 36.46,
+      "tipo": "evento",
+      "eventoId": 1776722419660,
+      "data": "19/04/2026"
+    },
+    {
+      "id": 1780097319567,
+      "pessoa": "Diogo",
+      "valor": 33.83,
+      "tipo": "evento",
+      "eventoId": 1776722419660,
+      "data": "19/04/2026"
+    },
+    {
+      "id": 1780097330901,
+      "pessoa": "Filipe",
+      "valor": 10.6,
+      "tipo": "evento",
+      "eventoId": 1776722419660,
+      "data": "19/04/2026"
+    },
+    {
+      "id": 1780097337361,
+      "pessoa": "João Hélder",
+      "valor": 26.76,
+      "tipo": "evento",
+      "eventoId": 1776722419660,
+      "data": "19/04/2026"
+    },
+    {
+      "id": 1780097347672,
+      "pessoa": "Luís Pedro",
+      "valor": 22.62,
+      "tipo": "evento",
+      "eventoId": 1776722419660,
+      "data": "19/04/2026"
+    },
+    {
+      "id": 1780097355569,
+      "pessoa": "Rogélio",
+      "valor": 33.83,
+      "tipo": "evento",
+      "eventoId": 1776722419660,
+      "data": "19/04/2026"
+    },
+    {
+      "id": 1780097459453,
+      "pessoa": "Filipe",
+      "valor": 9.48,
+      "tipo": "evento",
+      "eventoId": 1778956908479,
+      "data": "16/05/2026"
+    },
+    {
+      "id": 1780097466694,
+      "pessoa": "Barrona",
+      "valor": 15.19,
+      "tipo": "evento",
+      "eventoId": 1778956908479,
+      "data": "16/05/2026"
+    },
+    {
+      "id": 1780097478640,
+      "pessoa": "João Paulo",
+      "valor": 15.19,
+      "tipo": "evento",
+      "eventoId": 1778956908479,
+      "data": "16/05/2026"
+    },
+    {
+      "id": 1780097486703,
+      "pessoa": "Luís Pedro",
+      "valor": 3.77,
+      "tipo": "evento",
+      "eventoId": 1778956908479,
+      "data": "16/05/2026"
+    },
+    {
+      "id": 1780097494639,
+      "pessoa": "Samuel",
+      "valor": 15.19,
+      "tipo": "evento",
+      "eventoId": 1778956908479,
+      "data": "16/05/2026"
+    },
+    {
+      "id": 1780097636664,
+      "pessoa": "Barrona",
+      "valor": 44.9,
+      "tipo": "evento",
+      "eventoId": 1772150400000,
+      "data": "27/02/2026"
+    },
+    {
+      "id": 1780097641446,
+      "pessoa": "Barrona",
+      "valor": 21.84,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    },
+    {
+      "id": 1780097649381,
+      "pessoa": "Filipe",
+      "valor": 4.58,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    },
+    {
+      "id": 1780097658216,
+      "pessoa": "João Hélder",
+      "valor": 9.71,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    },
+    {
+      "id": 1780097662381,
+      "pessoa": "João Hélder",
+      "valor": 10,
+      "tipo": "evento",
+      "eventoId": 1772150400000,
+      "data": "27/02/2026"
+    },
+    {
+      "id": 1780097671785,
+      "pessoa": "João Paulo",
+      "valor": 17.75,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    },
+    {
+      "id": 1780097681265,
+      "pessoa": "João Paulo",
+      "valor": 21.5,
+      "tipo": "evento",
+      "eventoId": 1772150400000,
+      "data": "27/02/2026"
+    },
+    {
+      "id": 1780097692954,
+      "pessoa": "Mestre",
+      "valor": 11.24,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    },
+    {
+      "id": 1780097699518,
+      "pessoa": "Mestre",
+      "valor": 29.3,
+      "tipo": "evento",
+      "eventoId": 1772150400000,
+      "data": "27/02/2026"
+    },
+    {
+      "id": 1780097707018,
+      "pessoa": "Rogélio",
+      "valor": 30.15,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    },
+    {
+      "id": 1780097712700,
+      "pessoa": "Samuel",
+      "valor": 18.89,
+      "tipo": "evento",
+      "eventoId": 1769904000000,
+      "data": "01/02/2026"
+    }
+  ]
 }
