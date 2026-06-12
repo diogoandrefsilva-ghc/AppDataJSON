@@ -3098,6 +3098,18 @@
       "reimbursed": false,
       "id": "e1780642706784ctwn",
       "fy": "FY26"
+    },
+    {
+      "type": "Galp",
+      "date": "2026-06-12",
+      "desc": "Alcochete",
+      "amount": 79.43,
+      "finalAmount": null,
+      "quinzena": "Extrato 2026Jun",
+      "pending": false,
+      "reimbursed": false,
+      "id": "e1781273535856hh3b",
+      "fy": "FY26"
     }
   ]
 }
