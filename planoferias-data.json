@@ -179,9 +179,17 @@
     {
       "id": "p9",
       "data": "2026-09-30",
-      "valor": -590,
+      "valor": -514.25,
       "obs": "Mensalidade Penas",
-      "ferias": 119
+      "ferias": 43.25,
+      "feriasManual": false,
+      "base": 590,
+      "itens": [
+        {
+          "d": "Desconto Agosto",
+          "v": -75.75
+        }
+      ]
     },
     {
       "id": "p11",
@@ -213,5 +221,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-06-12T23:32:43.797Z"
+  "_updated": "2026-06-12T23:33:28.720Z"
 }
