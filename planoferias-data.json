@@ -157,9 +157,17 @@
     {
       "id": "p7",
       "data": "2026-08-31",
-      "valor": -505,
+      "valor": -625,
       "obs": "Mensalidade Penas",
-      "ferias": 0
+      "ferias": 0,
+      "feriasManual": false,
+      "base": 590,
+      "itens": [
+        {
+          "d": "Seguro Anual",
+          "v": 35
+        }
+      ]
     },
     {
       "id": "p8",
@@ -173,7 +181,7 @@
       "data": "2026-09-30",
       "valor": -590,
       "obs": "Mensalidade Penas",
-      "ferias": 0
+      "ferias": 119
     },
     {
       "id": "p10",
@@ -194,7 +202,7 @@
       "data": "2026-10-31",
       "valor": -590,
       "obs": "Mensalidade Penas",
-      "ferias": 269
+      "ferias": 270
     },
     {
       "id": "p13",
@@ -212,5 +220,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-06-08T14:45:28.494Z"
+  "_updated": "2026-06-12T23:32:35.098Z"
 }
