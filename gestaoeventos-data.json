@@ -225,7 +225,13 @@
       "grupos": [
         5
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 19,
+          "nome": "Salvador",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 18,
@@ -246,7 +252,7 @@
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 19,
+    "np": 20,
     "ne": 1
   }
 }
