@@ -38,6 +38,11 @@
           "id": 2,
           "nome": "Ana Faria",
           "tipo": "adulto"
+        },
+        {
+          "id": 5,
+          "nome": "Cláudio Faria",
+          "tipo": "adulto"
         }
       ]
     },
@@ -65,7 +70,7 @@
   "_meta": {
     "ng": 5,
     "nf": 3,
-    "np": 5,
+    "np": 6,
     "ne": 1
   }
 }
