@@ -629,6 +629,14 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 27,
+      "nome": "Família da Beatriz",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -652,7 +660,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 27,
+    "nf": 28,
     "np": 80,
     "ne": 2
   }
