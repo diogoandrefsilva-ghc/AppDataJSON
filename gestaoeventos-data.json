@@ -165,12 +165,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 11,
+      "nome": "Barrona & Susana",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 11,
+    "nf": 12,
     "np": 18,
     "ne": 1
   }
