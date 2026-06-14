@@ -233,14 +233,20 @@
       "grupos": [
         5
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 18,
+          "nome": "Madalena",
+          "tipo": "crianca"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 18,
+    "np": 19,
     "ne": 1
   }
 }
