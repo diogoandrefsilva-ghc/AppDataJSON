@@ -76,6 +76,11 @@
           "id": 6,
           "nome": "João Hélder",
           "tipo": "adulto"
+        },
+        {
+          "id": 7,
+          "nome": "Paulinha",
+          "tipo": "adulto"
         }
       ]
     }
@@ -84,7 +89,7 @@
   "_meta": {
     "ng": 5,
     "nf": 4,
-    "np": 7,
+    "np": 8,
     "ne": 1
   }
 }
