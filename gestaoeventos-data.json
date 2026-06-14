@@ -925,7 +925,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 118,
+          "nome": "Ana",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 39,
@@ -1006,7 +1012,7 @@
   "_meta": {
     "ng": 6,
     "nf": 43,
-    "np": 118,
+    "np": 119,
     "ne": 2
   }
 }
