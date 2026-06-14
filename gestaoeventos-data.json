@@ -750,7 +750,9 @@
     {
       "id": 33,
       "nome": "Família do Francisco Correia",
-      "grupos": [],
+      "grupos": [
+        3
+      ],
       "membros": []
     }
   ],
