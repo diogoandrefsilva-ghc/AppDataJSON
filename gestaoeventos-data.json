@@ -14,12 +14,17 @@
       "id": 3,
       "nome": "Amigos do Penas",
       "cor": "#f7768e"
+    },
+    {
+      "id": 4,
+      "nome": "Família",
+      "cor": "#bb9af7"
     }
   ],
   "familias": [],
   "eventos": [],
   "_meta": {
-    "ng": 4,
+    "ng": 5,
     "nf": 1,
     "np": 1,
     "ne": 1
