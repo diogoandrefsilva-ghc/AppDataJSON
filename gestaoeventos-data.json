@@ -369,7 +369,13 @@
       "grupos": [
         2
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 139,
+          "nome": "Gonçalo",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 16,
@@ -1126,7 +1132,7 @@
   "_meta": {
     "ng": 6,
     "nf": 44,
-    "np": 139,
+    "np": 140,
     "ne": 2
   }
 }
