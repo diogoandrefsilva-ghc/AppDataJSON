@@ -371,7 +371,13 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 40,
+          "nome": "Maria",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 23,
@@ -419,7 +425,7 @@
   "_meta": {
     "ng": 6,
     "nf": 26,
-    "np": 40,
+    "np": 41,
     "ne": 1
   }
 }
