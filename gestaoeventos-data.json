@@ -9,12 +9,17 @@
       "id": 2,
       "nome": "Amigos de Lisboa",
       "cor": "#e6b455"
+    },
+    {
+      "id": 3,
+      "nome": "Amigos do Penas",
+      "cor": "#f7768e"
     }
   ],
   "familias": [],
   "eventos": [],
   "_meta": {
-    "ng": 3,
+    "ng": 4,
     "nf": 1,
     "np": 1,
     "ne": 1
