@@ -364,12 +364,20 @@
         4
       ],
       "membros": []
+    },
+    {
+      "id": 22,
+      "nome": "Gonçalo & Joana",
+      "grupos": [
+        4
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
-    "nf": 22,
+    "nf": 23,
     "np": 37,
     "ne": 1
   }
