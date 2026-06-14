@@ -303,12 +303,20 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 19,
+      "nome": "Tio Carlos & Rosário",
+      "grupos": [
+        4
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
-    "nf": 19,
+    "nf": 20,
     "np": 30,
     "ne": 1
   }
