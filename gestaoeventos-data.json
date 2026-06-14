@@ -226,12 +226,20 @@
         5
       ],
       "membros": []
+    },
+    {
+      "id": 18,
+      "nome": "Ana & Rui",
+      "grupos": [
+        5
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
-    "nf": 18,
+    "nf": 19,
     "np": 18,
     "ne": 1
   }
