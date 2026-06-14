@@ -602,11 +602,29 @@
       ]
     }
   ],
-  "eventos": [],
+  "eventos": [
+    {
+      "id": 1,
+      "nome": "Festa da Luísa (3 anos)",
+      "tipo": "aniversario",
+      "data": "2026-07-11",
+      "hora": "10:00",
+      "local": "Cantinho dos Póneis",
+      "notas": "",
+      "grupos": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "respostas": {}
+    }
+  ],
   "_meta": {
     "ng": 6,
     "nf": 26,
     "np": 76,
-    "ne": 1
+    "ne": 2
   }
 }
