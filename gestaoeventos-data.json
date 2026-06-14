@@ -706,6 +706,14 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 30,
+      "nome": "Família da Clarinha",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -729,7 +737,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 30,
+    "nf": 31,
     "np": 90,
     "ne": 2
   }
