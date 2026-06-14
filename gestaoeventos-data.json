@@ -1021,7 +1021,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 130,
+          "nome": "Inês",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [
@@ -1070,7 +1076,7 @@
   "_meta": {
     "ng": 6,
     "nf": 43,
-    "np": 130,
+    "np": 131,
     "ne": 2
   }
 }
