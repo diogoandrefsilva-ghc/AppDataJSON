@@ -105,6 +105,11 @@
           "id": 10,
           "nome": "Tânia",
           "tipo": "adulto"
+        },
+        {
+          "id": 11,
+          "nome": "Vicente",
+          "tipo": "crianca"
         }
       ]
     }
@@ -113,7 +118,7 @@
   "_meta": {
     "ng": 5,
     "nf": 5,
-    "np": 11,
+    "np": 12,
     "ne": 1
   }
 }
