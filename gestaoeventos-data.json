@@ -997,7 +997,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 127,
+          "nome": "Lázaro",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 42,
@@ -1054,7 +1060,7 @@
   "_meta": {
     "ng": 6,
     "nf": 43,
-    "np": 127,
+    "np": 128,
     "ne": 2
   }
 }
