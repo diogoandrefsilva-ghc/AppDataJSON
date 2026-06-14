@@ -600,6 +600,14 @@
           "tipo": "adulto"
         }
       ]
+    },
+    {
+      "id": 26,
+      "nome": "Família da Alice",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -623,7 +631,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 26,
+    "nf": 27,
     "np": 76,
     "ne": 2
   }
