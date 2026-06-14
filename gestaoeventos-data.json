@@ -4,12 +4,17 @@
       "id": 1,
       "nome": "Amigos de Alcochete",
       "cor": "#5fd08a"
+    },
+    {
+      "id": 2,
+      "nome": "Amigos de Lisboa",
+      "cor": "#e6b455"
     }
   ],
   "familias": [],
   "eventos": [],
   "_meta": {
-    "ng": 2,
+    "ng": 3,
     "nf": 1,
     "np": 1,
     "ne": 1
