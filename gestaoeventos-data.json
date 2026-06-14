@@ -896,7 +896,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 114,
+          "nome": "Hugo",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 38,
@@ -985,7 +991,7 @@
   "_meta": {
     "ng": 6,
     "nf": 43,
-    "np": 114,
+    "np": 115,
     "ne": 2
   }
 }
