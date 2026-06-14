@@ -141,12 +141,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 8,
+      "nome": "Samuel & Ivone",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 8,
+    "nf": 9,
     "np": 18,
     "ne": 1
   }
