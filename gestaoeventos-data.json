@@ -873,6 +873,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 37,
+      "nome": "Família do Manuel",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -920,7 +928,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 37,
+    "nf": 38,
     "np": 111,
     "ne": 2
   }
