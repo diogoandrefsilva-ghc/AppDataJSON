@@ -1050,7 +1050,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 134,
+          "nome": "Filipe",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [
@@ -1099,7 +1105,7 @@
   "_meta": {
     "ng": 6,
     "nf": 44,
-    "np": 134,
+    "np": 135,
     "ne": 2
   }
 }
