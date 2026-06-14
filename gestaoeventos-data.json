@@ -897,6 +897,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 40,
+      "nome": "Família do Maksim",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -944,7 +952,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 40,
+    "nf": 41,
     "np": 111,
     "ne": 2
   }
