@@ -1078,6 +1078,12 @@
           "tipo": "adulto"
         }
       ]
+    },
+    {
+      "id": 44,
+      "nome": "Minha Família",
+      "grupos": [],
+      "membros": []
     }
   ],
   "eventos": [
@@ -1140,7 +1146,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 44,
+    "nf": 45,
     "np": 140,
     "ne": 2
   }
