@@ -181,12 +181,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 13,
+      "nome": "Pedro & Catarina",
+      "grupos": [
+        2
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 13,
+    "nf": 14,
     "np": 18,
     "ne": 1
   }
