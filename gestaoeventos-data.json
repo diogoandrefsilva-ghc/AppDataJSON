@@ -665,7 +665,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 84,
+          "nome": "Aura",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 29,
@@ -698,7 +704,7 @@
   "_meta": {
     "ng": 6,
     "nf": 30,
-    "np": 84,
+    "np": 85,
     "ne": 2
   }
 }
