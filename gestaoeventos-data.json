@@ -881,6 +881,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 38,
+      "nome": "Família da Madalena Jorge",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -928,7 +936,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 38,
+    "nf": 39,
     "np": 111,
     "ne": 2
   }
