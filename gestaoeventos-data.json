@@ -617,6 +617,11 @@
           "id": 77,
           "nome": "Ângela",
           "tipo": "adulto"
+        },
+        {
+          "id": 78,
+          "nome": "Alice",
+          "tipo": "crianca"
         }
       ]
     }
@@ -643,7 +648,7 @@
   "_meta": {
     "ng": 6,
     "nf": 27,
-    "np": 78,
+    "np": 79,
     "ne": 2
   }
 }
