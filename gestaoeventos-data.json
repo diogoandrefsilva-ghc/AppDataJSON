@@ -21,11 +21,20 @@
       "cor": "#bb9af7"
     }
   ],
-  "familias": [],
+  "familias": [
+    {
+      "id": 1,
+      "nome": "Avós Alcochete",
+      "grupos": [
+        4
+      ],
+      "membros": []
+    }
+  ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 1,
+    "nf": 2,
     "np": 1,
     "ne": 1
   }
