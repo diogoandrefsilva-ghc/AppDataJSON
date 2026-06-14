@@ -29,12 +29,20 @@
         4
       ],
       "membros": []
+    },
+    {
+      "id": 2,
+      "nome": "Avós Braga",
+      "grupos": [
+        4
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 2,
+    "nf": 3,
     "np": 1,
     "ne": 1
   }
