@@ -137,7 +137,13 @@
       "grupos": [
         1
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 28,
+          "nome": "Maria Leonor",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 7,
@@ -297,7 +303,7 @@
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 28,
+    "np": 29,
     "ne": 1
   }
 }
