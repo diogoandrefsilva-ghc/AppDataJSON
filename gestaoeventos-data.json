@@ -52,7 +52,13 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 16,
+          "nome": "Avô João",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 3,
@@ -112,7 +118,7 @@
   "_meta": {
     "ng": 5,
     "nf": 5,
-    "np": 16,
+    "np": 17,
     "ne": 1
   }
 }
