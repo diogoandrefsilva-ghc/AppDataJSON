@@ -843,7 +843,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 107,
+          "nome": "Marta",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [
@@ -892,7 +898,7 @@
   "_meta": {
     "ng": 6,
     "nf": 36,
-    "np": 107,
+    "np": 108,
     "ne": 2
   }
 }
