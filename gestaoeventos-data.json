@@ -752,6 +752,11 @@
           "id": 95,
           "nome": "Francisca",
           "tipo": "crianca"
+        },
+        {
+          "id": 96,
+          "nome": "Irmão da Francisca",
+          "tipo": "crianca"
         }
       ]
     },
@@ -826,7 +831,7 @@
   "_meta": {
     "ng": 6,
     "nf": 35,
-    "np": 96,
+    "np": 97,
     "ne": 2
   }
 }
