@@ -395,14 +395,20 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 37,
+          "nome": "Tia Amália",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
     "nf": 26,
-    "np": 37,
+    "np": 38,
     "ne": 1
   }
 }
