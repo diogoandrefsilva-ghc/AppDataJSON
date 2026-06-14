@@ -28,23 +28,7 @@
       "grupos": [
         4
       ],
-      "membros": [
-        {
-          "id": 1,
-          "nome": "Manuel Faria",
-          "tipo": "adulto"
-        },
-        {
-          "id": 2,
-          "nome": "Ana Faria",
-          "tipo": "adulto"
-        },
-        {
-          "id": 5,
-          "nome": "Cláudio Faria",
-          "tipo": "adulto"
-        }
-      ]
+      "membros": []
     },
     {
       "id": 2,
