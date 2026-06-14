@@ -95,14 +95,20 @@
       "grupos": [
         1
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 9,
+          "nome": "Filipe",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
     "nf": 5,
-    "np": 9,
+    "np": 10,
     "ne": 1
   }
 }
