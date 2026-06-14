@@ -356,12 +356,20 @@
           "tipo": "adulto"
         }
       ]
+    },
+    {
+      "id": 21,
+      "nome": "André & Cintia",
+      "grupos": [
+        4
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
-    "nf": 21,
+    "nf": 22,
     "np": 37,
     "ne": 1
   }
