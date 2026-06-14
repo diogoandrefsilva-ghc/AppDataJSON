@@ -1043,6 +1043,14 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 43,
+      "nome": "País do Afonso",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -1090,7 +1098,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 43,
+    "nf": 44,
     "np": 134,
     "ne": 2
   }
