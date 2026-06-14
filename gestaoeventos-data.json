@@ -36,18 +36,7 @@
       "grupos": [
         4
       ],
-      "membros": [
-        {
-          "id": 3,
-          "nome": "João Pereira",
-          "tipo": "adulto"
-        },
-        {
-          "id": 4,
-          "nome": "Fátima Mano",
-          "tipo": "adulto"
-        }
-      ]
+      "membros": []
     },
     {
       "id": 3,
