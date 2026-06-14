@@ -819,7 +819,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 104,
+          "nome": "Beatriz",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [
@@ -868,7 +874,7 @@
   "_meta": {
     "ng": 6,
     "nf": 35,
-    "np": 104,
+    "np": 105,
     "ne": 2
   }
 }
