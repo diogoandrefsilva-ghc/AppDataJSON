@@ -675,6 +675,11 @@
           "id": 85,
           "nome": "Marcos",
           "tipo": "adulto"
+        },
+        {
+          "id": 86,
+          "nome": "Carminho",
+          "tipo": "crianca"
         }
       ]
     },
@@ -709,7 +714,7 @@
   "_meta": {
     "ng": 6,
     "nf": 30,
-    "np": 86,
+    "np": 87,
     "ne": 2
   }
 }
