@@ -47,14 +47,20 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 3,
+          "nome": "João Pereira",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
     "nf": 3,
-    "np": 3,
+    "np": 4,
     "ne": 1
   }
 }
