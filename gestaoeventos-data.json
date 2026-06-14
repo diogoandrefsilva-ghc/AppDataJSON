@@ -177,7 +177,13 @@
       "grupos": [
         1
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 23,
+          "nome": "Zé Guilherme",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 12,
@@ -268,7 +274,7 @@
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 23,
+    "np": 24,
     "ne": 1
   }
 }
