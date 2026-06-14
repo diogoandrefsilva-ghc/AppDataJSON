@@ -1,6 +1,17 @@
 {
-  "grupos": [],
+  "grupos": [
+    {
+      "id": 1,
+      "nome": "Amigos de Alcochete",
+      "cor": "#5fd08a"
+    }
+  ],
   "familias": [],
   "eventos": [],
-  "_meta": { "ng": 1, "nf": 1, "np": 1, "ne": 1 }
+  "_meta": {
+    "ng": 2,
+    "nf": 1,
+    "np": 1,
+    "ne": 1
+  }
 }
