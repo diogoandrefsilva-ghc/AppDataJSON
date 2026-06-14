@@ -71,14 +71,20 @@
       "grupos": [
         1
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 6,
+          "nome": "João Hélder",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
     "nf": 4,
-    "np": 6,
+    "np": 7,
     "ne": 1
   }
 }
