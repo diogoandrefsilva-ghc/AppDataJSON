@@ -380,12 +380,20 @@
         4
       ],
       "membros": []
+    },
+    {
+      "id": 24,
+      "nome": "Joana & Nélson",
+      "grupos": [
+        4
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
-    "nf": 24,
+    "nf": 25,
     "np": 37,
     "ne": 1
   }
