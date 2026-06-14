@@ -645,6 +645,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 29,
+      "nome": "Família da Carolina",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -668,7 +676,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 29,
+    "nf": 30,
     "np": 80,
     "ne": 2
   }
