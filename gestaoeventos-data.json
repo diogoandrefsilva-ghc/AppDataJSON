@@ -865,6 +865,14 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 36,
+      "nome": "Família do Vicente",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -912,7 +920,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 36,
+    "nf": 37,
     "np": 111,
     "ne": 2
   }
