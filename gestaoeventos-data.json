@@ -754,6 +754,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 34,
+      "nome": "Família do Francisco Martins",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -801,7 +809,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 34,
+    "nf": 35,
     "np": 93,
     "ne": 2
   }
