@@ -836,6 +836,14 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 35,
+      "nome": "Família do Gustavo",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -883,7 +891,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 35,
+    "nf": 36,
     "np": 107,
     "ne": 2
   }
