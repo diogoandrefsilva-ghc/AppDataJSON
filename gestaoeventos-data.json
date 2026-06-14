@@ -28,7 +28,13 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 1,
+          "nome": "Manuel Faria",
+          "tipo": "adulto"
+        }
+      ]
     },
     {
       "id": 2,
@@ -43,7 +49,7 @@
   "_meta": {
     "ng": 5,
     "nf": 3,
-    "np": 1,
+    "np": 2,
     "ne": 1
   }
 }
