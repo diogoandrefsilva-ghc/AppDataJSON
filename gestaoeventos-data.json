@@ -637,6 +637,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 28,
+      "nome": "Família da Carminho",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -660,7 +668,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 28,
+    "nf": 29,
     "np": 80,
     "ne": 2
   }
