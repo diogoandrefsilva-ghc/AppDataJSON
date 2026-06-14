@@ -133,12 +133,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 7,
+      "nome": "Mestre & Carolina",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 7,
+    "nf": 8,
     "np": 18,
     "ne": 1
   }
