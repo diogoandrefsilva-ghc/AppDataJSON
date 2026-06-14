@@ -173,12 +173,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 12,
+      "nome": "Luís Pedro & Inês",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 12,
+    "nf": 13,
     "np": 18,
     "ne": 1
   }
