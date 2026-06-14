@@ -1083,7 +1083,13 @@
       "id": 44,
       "nome": "Minha Família",
       "grupos": [],
-      "membros": []
+      "membros": [
+        {
+          "id": 140,
+          "nome": "Diogo",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [
@@ -1151,7 +1157,7 @@
   "_meta": {
     "ng": 6,
     "nf": 45,
-    "np": 140,
+    "np": 141,
     "ne": 2
   },
   "minhaFamiliaId": 44
