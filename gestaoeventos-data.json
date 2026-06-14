@@ -889,6 +889,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 39,
+      "nome": "Família da Madalena Alves",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -936,7 +944,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 39,
+    "nf": 40,
     "np": 111,
     "ne": 2
   }
