@@ -607,7 +607,13 @@
       "grupos": [
         3
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 76,
+          "nome": "Paulo",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [
@@ -632,7 +638,7 @@
   "_meta": {
     "ng": 6,
     "nf": 27,
-    "np": 76,
+    "np": 77,
     "ne": 2
   }
 }
