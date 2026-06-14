@@ -334,14 +334,20 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 33,
+          "nome": "Tio Toninho",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
     "nf": 21,
-    "np": 33,
+    "np": 34,
     "ne": 1
   }
 }
