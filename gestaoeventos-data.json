@@ -730,6 +730,14 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 31,
+      "nome": "Família da Francisca",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -777,7 +785,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 31,
+    "nf": 32,
     "np": 93,
     "ne": 2
   }
