@@ -193,7 +193,13 @@
       "grupos": [
         2
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 20,
+          "nome": "Alice",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 14,
@@ -252,7 +258,7 @@
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 20,
+    "np": 21,
     "ne": 1
   }
 }
