@@ -646,6 +646,11 @@
           "id": 81,
           "nome": "Catarina",
           "tipo": "adulto"
+        },
+        {
+          "id": 82,
+          "nome": "Beatriz",
+          "tipo": "crianca"
         }
       ]
     },
@@ -688,7 +693,7 @@
   "_meta": {
     "ng": 6,
     "nf": 30,
-    "np": 82,
+    "np": 83,
     "ne": 2
   }
 }
