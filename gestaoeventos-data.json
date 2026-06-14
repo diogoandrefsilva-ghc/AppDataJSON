@@ -125,12 +125,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 6,
+      "nome": "Rogélio & Lara",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 6,
+    "nf": 7,
     "np": 18,
     "ne": 1
   }
