@@ -363,7 +363,13 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 41,
+          "nome": "Lourenço",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 22,
@@ -425,7 +431,7 @@
   "_meta": {
     "ng": 6,
     "nf": 26,
-    "np": 41,
+    "np": 42,
     "ne": 1
   }
 }
