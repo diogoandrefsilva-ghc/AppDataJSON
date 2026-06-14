@@ -117,12 +117,20 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 5,
+      "nome": "João Paulo & Rita",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 5,
+    "nf": 6,
     "np": 18,
     "ne": 1
   }
