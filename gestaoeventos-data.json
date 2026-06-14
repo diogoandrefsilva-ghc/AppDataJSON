@@ -145,7 +145,13 @@
       "grupos": [
         1
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 27,
+          "nome": "Francisca",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 8,
@@ -291,7 +297,7 @@
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 27,
+    "np": 28,
     "ne": 1
   }
 }
