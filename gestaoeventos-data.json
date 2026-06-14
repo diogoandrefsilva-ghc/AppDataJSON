@@ -129,7 +129,13 @@
       "grupos": [
         1
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 29,
+          "nome": "Beatriz",
+          "tipo": "crianca"
+        }
+      ]
     },
     {
       "id": 6,
@@ -303,7 +309,7 @@
   "_meta": {
     "ng": 6,
     "nf": 19,
-    "np": 29,
+    "np": 30,
     "ne": 1
   }
 }
