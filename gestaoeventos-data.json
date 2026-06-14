@@ -64,12 +64,20 @@
           "tipo": "adulto"
         }
       ]
+    },
+    {
+      "id": 3,
+      "nome": "João Hélder / Paulinha",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 3,
+    "nf": 4,
     "np": 6,
     "ne": 1
   }
