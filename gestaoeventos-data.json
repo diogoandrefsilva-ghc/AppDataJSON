@@ -197,12 +197,20 @@
         2
       ],
       "membros": []
+    },
+    {
+      "id": 15,
+      "nome": "Gonçalo",
+      "grupos": [
+        2
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 15,
+    "nf": 16,
     "np": 18,
     "ne": 1
   }
