@@ -205,12 +205,20 @@
         2
       ],
       "membros": []
+    },
+    {
+      "id": 16,
+      "nome": "Patrick & Silvi",
+      "grupos": [
+        2
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 16,
+    "nf": 17,
     "np": 18,
     "ne": 1
   }
