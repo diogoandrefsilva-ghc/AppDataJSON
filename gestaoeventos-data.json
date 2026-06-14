@@ -88,12 +88,20 @@
           "tipo": "crianca"
         }
       ]
+    },
+    {
+      "id": 4,
+      "nome": "Filipe & Tânia",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 4,
+    "nf": 5,
     "np": 9,
     "ne": 1
   }
