@@ -310,14 +310,20 @@
       "grupos": [
         4
       ],
-      "membros": []
+      "membros": [
+        {
+          "id": 30,
+          "nome": "Tio Carlos",
+          "tipo": "adulto"
+        }
+      ]
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
     "nf": 20,
-    "np": 30,
+    "np": 31,
     "ne": 1
   }
 }
