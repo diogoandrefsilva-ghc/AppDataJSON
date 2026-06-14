@@ -622,6 +622,11 @@
           "id": 78,
           "nome": "Alice",
           "tipo": "crianca"
+        },
+        {
+          "id": 79,
+          "nome": "Irmã da Alice",
+          "tipo": "crianca"
         }
       ]
     }
@@ -648,7 +653,7 @@
   "_meta": {
     "ng": 6,
     "nf": 27,
-    "np": 79,
+    "np": 80,
     "ne": 2
   }
 }
