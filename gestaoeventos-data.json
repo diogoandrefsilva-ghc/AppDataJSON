@@ -913,6 +913,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 42,
+      "nome": "Família do Matias",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -960,7 +968,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 42,
+    "nf": 43,
     "np": 111,
     "ne": 2
   }
