@@ -372,12 +372,20 @@
         4
       ],
       "membros": []
+    },
+    {
+      "id": 23,
+      "nome": "Teresa & Luís",
+      "grupos": [
+        4
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 6,
-    "nf": 23,
+    "nf": 24,
     "np": 37,
     "ne": 1
   }
