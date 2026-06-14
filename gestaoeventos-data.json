@@ -905,6 +905,14 @@
         3
       ],
       "membros": []
+    },
+    {
+      "id": 41,
+      "nome": "Família do Lázaro",
+      "grupos": [
+        3
+      ],
+      "membros": []
     }
   ],
   "eventos": [
@@ -952,7 +960,7 @@
   ],
   "_meta": {
     "ng": 6,
-    "nf": 41,
+    "nf": 42,
     "np": 111,
     "ne": 2
   }
