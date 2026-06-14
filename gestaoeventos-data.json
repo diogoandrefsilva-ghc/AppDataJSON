@@ -157,12 +157,20 @@
         1
       ],
       "membros": []
+    },
+    {
+      "id": 10,
+      "nome": "João Pedro & Jéssica",
+      "grupos": [
+        1
+      ],
+      "membros": []
     }
   ],
   "eventos": [],
   "_meta": {
     "ng": 5,
-    "nf": 10,
+    "nf": 11,
     "np": 18,
     "ne": 1
   }
