@@ -699,6 +699,11 @@
           "id": 88,
           "nome": "João",
           "tipo": "adulto"
+        },
+        {
+          "id": 89,
+          "nome": "Carolina",
+          "tipo": "crianca"
         }
       ]
     }
@@ -725,7 +730,7 @@
   "_meta": {
     "ng": 6,
     "nf": 30,
-    "np": 89,
+    "np": 90,
     "ne": 2
   }
 }
