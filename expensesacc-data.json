@@ -3110,6 +3110,18 @@
       "reimbursed": false,
       "id": "e1781273535856hh3b",
       "fy": "FY26"
+    },
+    {
+      "type": "Galp",
+      "date": "2026-06-18",
+      "desc": "Braga",
+      "amount": 58,
+      "finalAmount": null,
+      "quinzena": "Extrato 2026Jun",
+      "pending": false,
+      "reimbursed": false,
+      "id": "e1781914320877kchb",
+      "fy": "FY26"
     }
   ]
 }
