@@ -231,7 +231,8 @@
       "amount": 66,
       "quinzena": "Extrato 2026Mai",
       "reimbursed": false,
-      "pending": false
+      "pending": false,
+      "finalAmount": 65.11
     },
     {
       "id": "s31",
