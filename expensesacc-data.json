@@ -1883,7 +1883,7 @@
       "finalAmount": null,
       "quinzena": "TR 2026Mai Q2",
       "pending": false,
-      "reimbursed": false,
+      "reimbursed": true,
       "id": "e17801598246706eff",
       "fy": "FY26"
     },
