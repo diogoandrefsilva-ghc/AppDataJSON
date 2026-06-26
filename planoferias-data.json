@@ -72,11 +72,11 @@
     },
     {
       "id": "m10",
-      "data": "2026-06-29",
+      "data": "2026-06-26",
       "descricao": "Depósito Férias Diogo",
       "valor": 825,
       "tipo": "contribuicao",
-      "pessoa": "Diogo"
+      "pessoa": "Comum"
     },
     {
       "id": "m11",
@@ -221,5 +221,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-06-12T23:33:28.720Z"
+  "_updated": "2026-06-26T06:38:12.143Z"
 }
