@@ -1,79 +1,79 @@
 {
-  "updated": "2026-06-30T21:31:00Z",
-  "fonte": "Média de mercado (Betclic, Betano, bwin)",
+  "updated": "2026-06-30 23:00:00",
+  "fonte": "Média agregada (Betclic, Betano, bwin e mercados internacionais)",
   "qualificacao": {
     "M77": {
-      "France": 1.25,
-      "Sweden": 3.75
+      "France": 1.13,
+      "Sweden": 6.5
     },
     "M79": {
-      "Mexico": 1.8,
-      "Ecuador": 1.95
+      "Mexico": 1.55,
+      "Ecuador": 2.48
     },
     "M80": {
-      "England": 1.15,
-      "DR Congo": 5
+      "England": 1.11,
+      "DR Congo": 7
     },
     "M81": {
-      "USA": 1.75,
-      "Bosnia & Herzegovina": 2
+      "USA": 1.17,
+      "Bosnia & Herzegovina": 5.5
     },
     "M82": {
-      "Belgium": 1.55,
-      "Senegal": 2.35
+      "Belgium": 1.62,
+      "Senegal": 2.3
     },
     "M83": {
-      "Portugal": 1.6,
-      "Croatia": 2.25
+      "Portugal": 1.41,
+      "Croatia": 2.95
     },
     "M84": {
-      "Spain": 1.35,
-      "Austria": 3
+      "Spain": 1.13,
+      "Austria": 6.5
     },
     "M85": {
-      "Switzerland": 1.5,
-      "Algeria": 2.5
+      "Switzerland": 1.53,
+      "Algeria": 2.25
     },
     "M86": {
-      "Argentina": 1.05,
-      "Cape Verde": 8.5
+      "Argentina": 1.07,
+      "Cape Verde": 9.5
     },
     "M87": {
-      "Colombia": 1.45,
-      "Ghana": 2.65
+      "Colombia": 1.26,
+      "Ghana": 3.5
     },
     "M88": {
-      "Australia": 2.1,
-      "Egypt": 1.7
+      "Australia": 2.12,
+      "Egypt": 1.74
     }
   },
   "campeao": {
-    "Canada": 150,
-    "Paraguay": 150,
-    "Morocco": 80,
-    "Brazil": 6,
+    "Canada": 300,
+    "Paraguay": 350,
+    "Morocco": 45,
+    "Brazil": 10,
     "France": 5,
     "Sweden": 100,
-    "Norway": 200,
-    "Mexico": 40,
-    "Ecuador": 60,
-    "England": 5.5,
-    "DR Congo": 500,
-    "USA": 35,
-    "Bosnia & Herzegovina": 250,
-    "Belgium": 18,
-    "Senegal": 65,
-    "Portugal": 9,
-    "Croatia": 45,
-    "Spain": 7,
-    "Austria": 80,
+    "Norway": 60,
+    "Mexico": 51,
+    "Ecuador": 120,
+    "England": 7.6,
+    "DR Congo": 400,
+    "USA": 30,
+    "Bosnia & Herzegovina": 300,
+    "Belgium": 35,
+    "Senegal": 80,
+    "Portugal": 9.5,
+    "Croatia": 40,
+    "Spain": 5.8,
+    "Austria": 151,
     "Switzerland": 50,
-    "Algeria": 150,
-    "Argentina": 4.5,
-    "Cape Verde": 1000,
-    "Colombia": 15,
-    "Ghana": 200,
-    "Australia": 120,
-    "Egypt": 100
+    "Algeria": 200,
+    "Argentina": 8,
+    "Cape Verde": 500,
+    "Colombia": 20,
+    "Ghana": 250,
+    "Australia": 250,
+    "Egypt": 150
   }
 }
