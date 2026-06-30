@@ -1,0 +1,79 @@
+{
+  "updated": "2026-06-30T21:31:00Z",
+  "fonte": "Média de mercado (Betclic, Betano, bwin)",
+  "qualificacao": {
+    "M77": {
+      "France": 1.25,
+      "Sweden": 3.75
+    },
+    "M79": {
+      "Mexico": 1.8,
+      "Ecuador": 1.95
+    },
+    "M80": {
+      "England": 1.15,
+      "DR Congo": 5
+    },
+    "M81": {
+      "USA": 1.75,
+      "Bosnia & Herzegovina": 2
+    },
+    "M82": {
+      "Belgium": 1.55,
+      "Senegal": 2.35
+    },
+    "M83": {
+      "Portugal": 1.6,
+      "Croatia": 2.25
+    },
+    "M84": {
+      "Spain": 1.35,
+      "Austria": 3
+    },
+    "M85": {
+      "Switzerland": 1.5,
+      "Algeria": 2.5
+    },
+    "M86": {
+      "Argentina": 1.05,
+      "Cape Verde": 8.5
+    },
+    "M87": {
+      "Colombia": 1.45,
+      "Ghana": 2.65
+    },
+    "M88": {
+      "Australia": 2.1,
+      "Egypt": 1.7
+    }
+  },
+  "campeao": {
+    "Canada": 150,
+    "Paraguay": 150,
+    "Morocco": 80,
+    "Brazil": 6,
+    "France": 5,
+    "Sweden": 100,
+    "Norway": 200,
+    "Mexico": 40,
+    "Ecuador": 60,
+    "England": 5.5,
+    "DR Congo": 500,
+    "USA": 35,
+    "Bosnia & Herzegovina": 250,
+    "Belgium": 18,
+    "Senegal": 65,
+    "Portugal": 9,
+    "Croatia": 45,
+    "Spain": 7,
+    "Austria": 80,
+    "Switzerland": 50,
+    "Algeria": 150,
+    "Argentina": 4.5,
+    "Cape Verde": 1000,
+    "Colombia": 15,
+    "Ghana": 200,
+    "Australia": 120,
+    "Egypt": 100
+  }
+}
