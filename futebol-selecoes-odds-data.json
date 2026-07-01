@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 20:51 UTC",
+  "updated": "2026-07-01 21:14 UTC",
   "fonte": "The Odds API (automático)",
   "qualificacao": {
     "M81": {
@@ -7,16 +7,16 @@
       "Bosnia & Herzegovina": 7.48
     },
     "M82": {
-      "Belgium": 2.89,
-      "Senegal": 1.53
+      "Belgium": 7.12,
+      "Senegal": 1.16
     },
     "M83": {
       "Portugal": 1.37,
-      "Croatia": 3.72
+      "Croatia": 3.74
     },
     "M84": {
       "Spain": 1.13,
-      "Austria": 8.67
+      "Austria": 8.62
     },
     "M85": {
       "Switzerland": 1.5,
@@ -42,16 +42,16 @@
     "England": 9.33,
     "Brazil": 13.67,
     "Portugal": 16.33,
+    "Colombia": 34,
     "Morocco": 32.67,
     "Mexico": 33.67,
-    "Colombia": 35.33,
     "USA": 36.67,
     "Norway": 44.67,
-    "Senegal": 78.67,
-    "Belgium": 75.67,
-    "Switzerland": 120.33,
+    "Belgium": 65.67,
+    "Senegal": 92,
+    "Switzerland": 113.67,
     "Croatia": 260.33,
-    "Canada": 367,
+    "Canada": 370.33,
     "Egypt": 437,
     "Austria": 490.33,
     "Paraguay": 503.67,
