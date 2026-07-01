@@ -1,79 +1,69 @@
 {
-  "updated": "2026-06-30T23:23:48Z",
-  "fonte": "Média Betclic, Betano e bwin",
+  "updated": "2026-07-01 (dados recolhidos via pesquisa web)",
+  "fonte": "Odds 'to advance'/moneyline dos jogos dos 16-avos: Bleacher Report / FOX Sports (FanDuel), 1 jul 2026. Odds de campeão: BetMGM via Yahoo Sports, 30 jun 2026. Nota: não foi possível aceder diretamente a Betclic, Betano ou bwin via pesquisa; usei as melhores fontes agregadas disponíveis. Confirma sempre na app antes de usar para apostas reais.",
   "qualificacao": {
-    "M77": {
-      "France": 1.17,
-      "Sweden": 4.55
-    },
-    "M79": {
-      "Mexico": 1.83,
-      "Ecuador": 1.87
-    },
     "M80": {
-      "England": 1.12,
-      "DR Congo": 5.4
+      "England": 1.13,
+      "DR Congo": 6.2
     },
     "M81": {
-      "USA": 1.33,
-      "Bosnia & Herzegovina": 3.15
+      "USA": 1.15,
+      "Bosnia & Herzegovina": 5.2
     },
     "M82": {
-      "Belgium": 1.48,
-      "Senegal": 2.5
+      "Belgium": 1.56,
+      "Senegal": 2.46
     },
     "M83": {
-      "Portugal": 1.52,
-      "Croatia": 2.38
+      "Portugal": 1.34,
+      "Croatia": 3.2
     },
     "M84": {
-      "Spain": 1.22,
-      "Austria": 3.9
+      "Spain": 1.11,
+      "Austria": 6.7
     },
     "M85": {
-      "Switzerland": 1.42,
-      "Algeria": 2.65
+      "Switzerland": 1.48,
+      "Algeria": 2.72
     },
     "M86": {
-      "Argentina": 1.07,
-      "Cape Verde": 7.3
+      "Argentina": 1.06,
+      "Cape Verde": 12.6
     },
     "M87": {
-      "Colombia": 1.3,
-      "Ghana": 3.25
+      "Colombia": 1.18,
+      "Ghana": 4.8
     },
     "M88": {
-      "Australia": 1.62,
-      "Egypt": 2.18
+      "Australia": 2.16,
+      "Egypt": 1.7
     }
   },
   "campeao": {
-    "Canada": 151,
+    "Canada": 101,
     "Paraguay": 201,
-    "Morocco": 151,
-    "Brazil": 11.5,
-    "France": 4.25,
-    "Sweden": 126,
-    "Norway": 201,
+    "Morocco": 21,
+    "Brazil": 11,
+    "France": 3.75,
+    "Norway": 26,
     "Mexico": 51,
-    "Ecuador": 81,
-    "England": 7.75,
-    "DR Congo": 301,
-    "USA": 61,
-    "Bosnia & Herzegovina": 251,
-    "Belgium": 21,
+    "England": 8,
+    "DR Congo": 501,
+    "USA": 26,
+    "Bosnia & Herzegovina": 501,
+    "Belgium": 41,
     "Senegal": 101,
-    "Portugal": 10.5,
-    "Croatia": 41,
-    "Spain": 7,
-    "Austria": 121,
+    "Portugal": 12,
+    "Croatia": 101,
+    "Spain": 8,
+    "Austria": 251,
     "Switzerland": 67,
-    "Algeria": 251,
-    "Argentina": 5,
+    "Algeria": 301,
+    "Argentina": 4.5,
     "Cape Verde": 501,
     "Colombia": 34,
-    "Ghana": 201,
-    "Australia": 76,
-    "Egypt": 151
+    "Ghana": 351,
+    "Australia": 201,
+    "Egypt": 251
   }
 }
