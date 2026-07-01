@@ -1,69 +1,64 @@
 {
-  "updated": "2026-07-01 17:33 UTC",
+  "updated": "2026-07-01 20:51 UTC",
   "fonte": "The Odds API (automático)",
   "qualificacao": {
-    "M80": {
-      "England": 2.81,
-      "DR Congo": 1.55
-    },
     "M81": {
-      "USA": 1.16,
-      "Bosnia & Herzegovina": 7.29
+      "USA": 1.15,
+      "Bosnia & Herzegovina": 7.48
     },
     "M82": {
-      "Belgium": 1.58,
-      "Senegal": 2.71
+      "Belgium": 2.89,
+      "Senegal": 1.53
     },
     "M83": {
-      "Portugal": 1.36,
-      "Croatia": 3.75
+      "Portugal": 1.37,
+      "Croatia": 3.72
     },
     "M84": {
       "Spain": 1.13,
-      "Austria": 8.71
+      "Austria": 8.67
     },
     "M85": {
-      "Switzerland": 1.49,
-      "Algeria": 3.04
+      "Switzerland": 1.5,
+      "Algeria": 2.98
     },
     "M86": {
       "Argentina": 1.06,
-      "Cape Verde": 17.73
+      "Cape Verde": 17.84
     },
     "M87": {
       "Colombia": 1.2,
-      "Ghana": 5.95
+      "Ghana": 5.89
     },
     "M88": {
-      "Australia": 2.36,
-      "Egypt": 1.73
+      "Australia": 2.35,
+      "Egypt": 1.74
     }
   },
   "campeao": {
     "France": 2.96,
-    "Argentina": 5.27,
-    "Spain": 8.77,
-    "Brazil": 11.33,
-    "England": 15.83,
-    "Portugal": 16,
-    "Mexico": 29.67,
-    "Morocco": 29.67,
-    "Colombia": 33.67,
+    "Argentina": 5.33,
+    "Spain": 8.8,
+    "England": 9.33,
+    "Brazil": 13.67,
+    "Portugal": 16.33,
+    "Morocco": 32.67,
+    "Mexico": 33.67,
+    "Colombia": 35.33,
     "USA": 36.67,
-    "Norway": 42,
-    "Belgium": 67,
-    "Switzerland": 93.67,
-    "DR Congo": 190.33,
-    "Senegal": 143.67,
-    "Croatia": 237,
-    "Canada": 342,
+    "Norway": 44.67,
+    "Senegal": 78.67,
+    "Belgium": 75.67,
+    "Switzerland": 120.33,
+    "Croatia": 260.33,
+    "Canada": 367,
     "Egypt": 437,
-    "Austria": 443.67,
-    "Australia": 483.67,
-    "Paraguay": 453.67,
+    "Austria": 490.33,
+    "Paraguay": 503.67,
+    "Australia": 517,
     "Ghana": 603.67,
-    "Algeria": 657,
-    "Bosnia & Herzegovina": 753.67,
-    "Cape Verde": 833.67
+    "Algeria": 707,
+    "Bosnia & Herzegovina": 767,
+    "Cape Verde": 917
   }
 }
