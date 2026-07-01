@@ -80,11 +80,11 @@
     },
     {
       "id": "m11",
-      "data": "2026-06-29",
+      "data": "2026-07-01",
       "descricao": "Depósito Férias Margarida",
       "valor": 675,
       "tipo": "contribuicao",
-      "pessoa": "Margarida"
+      "pessoa": "Comum"
     },
     {
       "id": "m14",
@@ -221,5 +221,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-06-26T06:38:12.143Z"
+  "_updated": "2026-07-01T06:59:07.830Z"
 }
