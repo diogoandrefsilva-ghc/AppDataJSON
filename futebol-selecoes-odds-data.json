@@ -1,33 +1,29 @@
 {
-  "updated": "2026-07-02 01:51 UTC",
+  "updated": "2026-07-02 06:35 UTC",
   "fonte": "The Odds API (automático)",
   "qualificacao": {
-    "M81": {
-      "USA": 1.01,
-      "Bosnia & Herzegovina": 171.52
-    },
     "M83": {
-      "Portugal": 1.36,
-      "Croatia": 3.79
+      "Portugal": 1.34,
+      "Croatia": 3.94
     },
     "M84": {
       "Spain": 1.13,
-      "Austria": 8.61
+      "Austria": 8.5
     },
     "M85": {
-      "Switzerland": 1.51,
-      "Algeria": 2.97
+      "Switzerland": 1.49,
+      "Algeria": 3.03
     },
     "M86": {
       "Argentina": 1.06,
-      "Cape Verde": 17.5
+      "Cape Verde": 17.69
     },
     "M87": {
       "Colombia": 1.2,
-      "Ghana": 5.91
+      "Ghana": 5.93
     },
     "M88": {
-      "Australia": 2.35,
+      "Australia": 2.36,
       "Egypt": 1.74
     }
   },
@@ -38,19 +34,18 @@
     "England": 9.67,
     "Brazil": 13.33,
     "Portugal": 17.33,
-    "USA": 30.33,
+    "Mexico": 32.33,
     "Morocco": 32.67,
-    "Mexico": 33.67,
     "Colombia": 35.33,
-    "Belgium": 43.33,
+    "USA": 35,
     "Norway": 44.67,
-    "Switzerland": 100.33,
-    "Croatia": 253.67,
-    "Austria": 350.33,
-    "Canada": 327,
-    "Bosnia & Herzegovina": 500.33,
+    "Belgium": 48,
+    "Switzerland": 107,
+    "Croatia": 257,
+    "Canada": 367,
     "Paraguay": 463.67,
     "Egypt": 437,
+    "Austria": 497,
     "Australia": 517,
     "Ghana": 537,
     "Algeria": 707,
