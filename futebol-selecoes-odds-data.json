@@ -1,24 +1,24 @@
 {
-  "updated": "2026-07-03 05:54 UTC",
+  "updated": "2026-07-03 06:18 UTC",
   "fonte": "The Odds API (automático)",
   "qualificacao": {
     "M86": {
       "Argentina": 1.05,
-      "Cape Verde": 19.99
+      "Cape Verde": 20.11
     },
     "M87": {
       "Colombia": 1.16,
-      "Ghana": 7.17
+      "Ghana": 7.21
     },
     "M88": {
-      "Australia": 2.48,
+      "Australia": 2.49,
       "Egypt": 1.67
     }
   },
   "campeao": {
     "France": 2.99,
     "Argentina": 5.4,
-    "Spain": 7.27,
+    "Spain": 7.13,
     "England": 11.17,
     "Brazil": 13.67,
     "Portugal": 15,
@@ -29,10 +29,10 @@
     "Norway": 44.67,
     "Belgium": 61.33,
     "Switzerland": 80.33,
-    "Canada": 373.67,
+    "Canada": 380.33,
     "Egypt": 437,
     "Paraguay": 483.67,
-    "Australia": 523.67,
+    "Australia": 493.67,
     "Ghana": 597,
     "Cape Verde": 917
   }
