@@ -1,7 +1,7 @@
 {
   "config": {
     "valorPorGolo": 1,
-    "epocaAtiva": "2025/26"
+    "epocaAtiva": "2026/27"
   },
   "epocas": {
     "2025/26": {
@@ -2378,6 +2378,66 @@
       ],
       "creditosExtra": [],
       "poteHolder": 2
+    },
+    "2026/27": {
+      "amigos": [
+        {
+          "id": 1,
+          "nome": "Barrona",
+          "cor": "#1b5e20"
+        },
+        {
+          "id": 2,
+          "nome": "Diogo",
+          "cor": "#1a237e"
+        },
+        {
+          "id": 3,
+          "nome": "Filipe",
+          "cor": "#4a148c"
+        },
+        {
+          "id": 4,
+          "nome": "João Hélder",
+          "cor": "#b71c1c"
+        },
+        {
+          "id": 5,
+          "nome": "João Matias",
+          "cor": "#e65100"
+        },
+        {
+          "id": 6,
+          "nome": "João Mestre",
+          "cor": "#006064"
+        },
+        {
+          "id": 7,
+          "nome": "João Paulo",
+          "cor": "#33691e"
+        },
+        {
+          "id": 8,
+          "nome": "Luís Pedro",
+          "cor": "#880e4f"
+        },
+        {
+          "id": 9,
+          "nome": "Rogélio",
+          "cor": "#1565c0"
+        },
+        {
+          "id": 10,
+          "nome": "Samuel",
+          "cor": "#37474f"
+        }
+      ],
+      "jogos": [],
+      "pagosPorJogo": {},
+      "estouros": [],
+      "creditosExtra": [],
+      "estouroPagos": [],
+      "poteHolder": null
     }
   }
 }
