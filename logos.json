@@ -19,7 +19,7 @@
   "Rio Ave": "https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f60ba4de2a2620cf09e02e_rio-ave-footballlogos-org.svg",
   "Gil Vicente": "https://cdn.prod.website-files.com/68f550992570ca0322737dc2/68f60aeafafd1f89bdf01476_gil-vicente-footballlogos-org.svg",
   "Marítimo": "https://en.wikipedia.org/wiki/Special:FilePath/Club_Sport_Mar%C3%ADtimo_logo.svg",
-  "Torreense": "https://commons.wikimedia.org/wiki/Special:FilePath/SCU_Torreense.svg",
+  "Torreense": "https://raw.githubusercontent.com/diogoandrefsilva-ghc/AppDataJSON/main/logos/torreense.png",
   "Académico Viseu": "https://commons.wikimedia.org/wiki/Special:FilePath/A.C._Viseu.svg",
   "Paços": "https://raw.githubusercontent.com/luukhopman/football-logos/master/history/2022-23/Portugal%20-%20Liga%20Portugal/FC%20Pa%C3%A7os%20de%20Ferreira.png",
   "Arsenal": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
@@ -42,5 +42,6 @@
   "Bodo Glimt": "https://en.wikipedia.org/wiki/Special:FilePath/FK_Bodo_Glimt_logo.svg",
   "AVS": "https://pt.wikipedia.org/wiki/Special:FilePath/AVS_Futebol_SAD_logo.png",
   "AFS": "https://pt.wikipedia.org/wiki/Special:FilePath/AVS_Futebol_SAD_logo.png",
-  "PSV": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/Netherlands%20-%20Eredivisie/PSV%20Eindhoven.png"
+  "PSV": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/Netherlands%20-%20Eredivisie/PSV%20Eindhoven.png",
+  "Marinhense": "https://raw.githubusercontent.com/diogoandrefsilva-ghc/AppDataJSON/main/logos/marinhense.png"
 }
