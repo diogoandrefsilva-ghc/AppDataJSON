@@ -180,15 +180,15 @@
     {
       "id": "p9",
       "data": "2026-09-30",
-      "valor": -665.75,
+      "valor": -514.25,
       "obs": "Mensalidade Out/26",
-      "ferias": 194.75,
+      "ferias": 43.25,
       "feriasManual": false,
       "base": 590,
       "itens": [
         {
           "d": "Desconto Agosto",
-          "v": 75.75
+          "v": -75.75
         }
       ]
     },
@@ -224,5 +224,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-05T09:13:12.994Z"
+  "_updated": "2026-07-05T09:14:30.370Z"
 }
