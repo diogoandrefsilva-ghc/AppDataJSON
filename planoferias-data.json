@@ -72,15 +72,15 @@
     },
     {
       "id": "m10",
-      "data": "2026-06-26",
+      "data": "2026-06-29",
       "descricao": "Depósito Férias Diogo",
       "valor": 825,
       "tipo": "contribuicao",
-      "pessoa": "Comum"
+      "pessoa": "Diogo"
     },
     {
       "id": "m11",
-      "data": "2026-07-01",
+      "data": "2026-07-05",
       "descricao": "Depósito Férias Margarida",
       "valor": 675,
       "tipo": "contribuicao",
@@ -88,15 +88,15 @@
     },
     {
       "id": "m14",
-      "data": "2026-07-01",
+      "data": "2026-07-12",
       "descricao": "Adriana",
-      "valor": -1685,
+      "valor": -1704.9,
       "tipo": "despesa",
       "pessoa": "Comum"
     },
     {
       "id": "m17",
-      "data": "2026-08-01",
+      "data": "2026-08-16",
       "descricao": "Altura",
       "valor": -950,
       "tipo": "despesa",
@@ -157,17 +157,9 @@
     {
       "id": "p7",
       "data": "2026-08-31",
-      "valor": -625,
+      "valor": -505,
       "obs": "Mensalidade Penas",
-      "ferias": 0,
-      "feriasManual": false,
-      "base": 590,
-      "itens": [
-        {
-          "d": "Seguro Anual",
-          "v": 35
-        }
-      ]
+      "ferias": 0
     },
     {
       "id": "p8",
@@ -179,17 +171,16 @@
     {
       "id": "p9",
       "data": "2026-09-30",
-      "valor": -514.25,
+      "valor": -590,
       "obs": "Mensalidade Penas",
-      "ferias": 43.25,
-      "feriasManual": false,
-      "base": 590,
-      "itens": [
-        {
-          "d": "Desconto Agosto",
-          "v": -75.75
-        }
-      ]
+      "ferias": 0
+    },
+    {
+      "id": "p10",
+      "data": "2026-09-30",
+      "valor": -35,
+      "obs": "Seguro Anual",
+      "ferias": 35
     },
     {
       "id": "p11",
@@ -203,7 +194,7 @@
       "data": "2026-10-31",
       "valor": -590,
       "obs": "Mensalidade Penas",
-      "ferias": 270
+      "ferias": 269
     },
     {
       "id": "p13",
@@ -221,5 +212,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-01T06:59:07.830Z"
+  "_updated": "2026-07-05T09:06:27.565Z"
 }
