@@ -194,17 +194,10 @@
     {
       "id": "p12",
       "data": "2026-10-31",
-      "valor": -665.75,
+      "valor": -590,
       "obs": "Mensalidade Out/26",
-      "ferias": 345.75,
-      "feriasManual": false,
-      "base": 590,
-      "itens": [
-        {
-          "d": "Desconto",
-          "v": 75.75
-        }
-      ]
+      "ferias": 270,
+      "feriasManual": false
     },
     {
       "id": "p13",
@@ -222,5 +215,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-05T09:11:17.504Z"
+  "_updated": "2026-07-05T09:12:15.289Z"
 }
