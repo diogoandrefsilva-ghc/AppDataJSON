@@ -158,10 +158,17 @@
     {
       "id": "p7",
       "data": "2026-08-31",
-      "valor": -590,
+      "valor": -625,
       "obs": "Mensalidade Set/26",
       "ferias": 0,
-      "feriasManual": false
+      "feriasManual": false,
+      "base": 590,
+      "itens": [
+        {
+          "d": "Seguro Anual",
+          "v": 35
+        }
+      ]
     },
     {
       "id": "p8",
@@ -175,7 +182,7 @@
       "data": "2026-09-30",
       "valor": -590,
       "obs": "Mensalidade Penas",
-      "ferias": 84
+      "ferias": 119
     },
     {
       "id": "p11",
@@ -215,5 +222,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-05T09:10:57.819Z"
+  "_updated": "2026-07-05T09:11:17.504Z"
 }
