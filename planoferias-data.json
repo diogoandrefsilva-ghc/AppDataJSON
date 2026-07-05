@@ -203,7 +203,7 @@
       "id": "p12",
       "data": "2026-10-31",
       "valor": -590,
-      "obs": "Mensalidade Out/26",
+      "obs": "Mensalidade Nov/26",
       "ferias": 270,
       "feriasManual": false
     },
@@ -223,5 +223,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-05T09:12:45.222Z"
+  "_updated": "2026-07-05T09:13:02.607Z"
 }
