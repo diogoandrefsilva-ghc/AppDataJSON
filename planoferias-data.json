@@ -144,8 +144,9 @@
       "id": "p5",
       "data": "2026-07-31",
       "valor": -505,
-      "obs": "Mensalidade Penas",
-      "ferias": 0
+      "obs": "Mensalidade Ago/26",
+      "ferias": 0,
+      "feriasManual": false
     },
     {
       "id": "p6",
@@ -213,5 +214,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-05T09:09:45.015Z"
+  "_updated": "2026-07-05T09:09:59.078Z"
 }
