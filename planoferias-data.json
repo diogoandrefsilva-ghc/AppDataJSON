@@ -187,9 +187,17 @@
     {
       "id": "p12",
       "data": "2026-10-31",
-      "valor": -590,
-      "obs": "Mensalidade Penas",
-      "ferias": 270
+      "valor": -665.75,
+      "obs": "Mensalidade Out/26",
+      "ferias": 345.75,
+      "feriasManual": false,
+      "base": 590,
+      "itens": [
+        {
+          "d": "Desconto",
+          "v": 75.75
+        }
+      ]
     },
     {
       "id": "p13",
@@ -207,5 +215,5 @@
     }
   ],
   "sims": [],
-  "_updated": "2026-07-05T09:10:10.395Z"
+  "_updated": "2026-07-05T09:10:57.819Z"
 }
