@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-08 10:12 UTC",
+  "updated": "2026-07-09 10:50 UTC",
   "fonte": "The Odds API (automático)",
   "qualificacao": {},
   "campeao": {
-    "France": 2.99,
-    "Spain": 4.97,
-    "Argentina": 5.03,
-    "England": 6,
-    "Norway": 16.67,
-    "Morocco": 34,
+    "France": 3.03,
+    "Argentina": 5.07,
+    "Spain": 5.13,
+    "England": 5.77,
+    "Norway": 17,
+    "Morocco": 33.67,
     "Belgium": 36.67,
     "Switzerland": 39.33
   }
