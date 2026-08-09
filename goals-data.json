@@ -2438,8 +2438,8 @@
           "data": "2026-08-09",
           "adversario": "Estrela Amadora",
           "competicao": "Liga Portugal",
-          "golos": null,
-          "resultado": "",
+          "golos": 2,
+          "resultado": "2-2",
           "jornada": "J1",
           "local": "Fora"
         },
