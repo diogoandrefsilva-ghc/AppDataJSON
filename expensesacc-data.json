@@ -3135,6 +3135,18 @@
       "reimbursed": false,
       "id": "e1784705889655sw9v",
       "fy": "FY26"
+    },
+    {
+      "type": "Galp",
+      "date": "2026-07-09",
+      "desc": "Montijo",
+      "amount": 83.24,
+      "finalAmount": null,
+      "quinzena": "Extrato 2026Jul",
+      "pending": true,
+      "reimbursed": false,
+      "id": "e17879087113869rq1",
+      "fy": "FY26"
     }
   ]
 }
