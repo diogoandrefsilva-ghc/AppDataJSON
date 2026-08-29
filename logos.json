@@ -43,5 +43,13 @@
   "AVS": "https://pt.wikipedia.org/wiki/Special:FilePath/AVS_Futebol_SAD_logo.png",
   "AFS": "https://pt.wikipedia.org/wiki/Special:FilePath/AVS_Futebol_SAD_logo.png",
   "PSV": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/Netherlands%20-%20Eredivisie/PSV%20Eindhoven.png",
-  "Marinhense": "https://raw.githubusercontent.com/diogoandrefsilva-ghc/AppDataJSON/main/logos/marinhense.png"
+  "Marinhense": "https://raw.githubusercontent.com/diogoandrefsilva-ghc/AppDataJSON/main/logos/marinhense.png",
+  "Galatasaray": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/T%C3%BCrkiye%20-%20S%C3%BCper%20Lig/Galatasaray.png",
+  "Lens": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/France%20-%20Ligue%201/RC%20Lens.png",
+  "LASK": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/Austria%20-%20Bundesliga/LASK.png",
+  "Shakhtar": "https://en.wikipedia.org/wiki/Special:FilePath/FC_Shakhtar_Donetsk_logo.svg",
+  "Manchester United": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/England%20-%20Premier%20League/Manchester%20United.png",
+  "Roma": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/Italy%20-%20Serie%20A/AS%20Roma.png",
+  "Barcelona": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/Spain%20-%20LaLiga/FC%20Barcelona.png",
+  "Manchester City": "https://raw.githubusercontent.com/luukhopman/football-logos/master/logos/England%20-%20Premier%20League/Manchester%20City.png"
 }
