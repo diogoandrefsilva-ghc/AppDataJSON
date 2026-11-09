@@ -3189,7 +3189,7 @@
       "date": "2026-09-20",
       "desc": "Alcochete",
       "amount": 69.94,
-      "finalAmount": null,
+      "finalAmount": 69,
       "quinzena": "Extrato 2026Set",
       "pending": false,
       "reimbursed": false,
