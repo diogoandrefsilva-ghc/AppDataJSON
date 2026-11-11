@@ -27,6 +27,10 @@
     "FY20": {
       "budget": 3000,
       "wbs": "GI241002"
+    },
+    "FY27": {
+      "budget": 3000,
+      "wbs": "GI241002"
     }
   },
   "expenses": [
